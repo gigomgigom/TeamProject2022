@@ -1,0 +1,17 @@
+#navibar {
+    background-color: #FFDAB9;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+#navilist {
+    float: left;
+    display: block;
+    background-color: #FFDAB9;
+    color: #000000;
+    padding: 10px;
+    text-decoration: none;
+    text-align: center;
+    font-weight: bold;
+}
